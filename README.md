@@ -7,11 +7,17 @@ Quickly design and customize responsive mobile-first sites with Bootstrap, the w
 ## The Website
 
 ![](static/img/s1.png)
+###
 ![](static/img/s2.png)
+###
 ![](static/img/s3.png)
+###
 ![](static/img/s4.png)
+###
 ![](static/img/s5.png)
+###
 ![](static/img/s6.png)
+###
 ![](static/img/s7.png)
 
 
