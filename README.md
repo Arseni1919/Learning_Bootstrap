@@ -27,6 +27,7 @@ Quickly design and customize responsive mobile-first sites with Bootstrap, the w
 - [Bootstrap](https://getbootstrap.com/)
 - [Bootstrap - Docs](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 - [Bootstrap 5 Crash Course | Website Build & Deploy](https://www.youtube.com/watch?v=4sosXZsdy-s&ab_channel=TraversyMedia)
+- [HTML and CSS - Lecture 0 - CS50's Web Programming with Python and JavaScript 2020](https://www.youtube.com/watch?v=zFZrkCIc2Oc&t=5901s&ab_channel=CS50)
 - [Mac: Cmd+Shift+R - hard refresh](https://stackoverflow.com/questions/41144565/flask-does-not-see-change-in-js-file)
 
 
