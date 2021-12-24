@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block title %}
+    <title>Backend + Frontend</title>
+{% endblock %}
+
+{% block body %}
+    {% include 'components/1_navbar_component.html' %}
+    <section class="p-3"></section>
+    <section class="p-5 d-block mx-auto text-center">
+        <h1>Bootstrap Example - WEB Lectures</h1>
+    </section>
+    <section class="p-5 text-warning mx-auto text-center">
+        <h2>Form</h2>
+    </section>
+    <section class="p-3 w-50 mx-auto bg-secondary text-light">
+    {% include 'components/2_form_component.html' %}
+    </section>
+    <section class="p-5 d-block mx-auto text-center text-warning">
+        <h2>Users Table</h2>
+    </section>
+    <section class="p-3 w-50 mx-auto ">
+    {% include 'components/3_table_component.html' %}
+    </section>
+
+    <section class="m-5">Footer</section>
+{% endblock %}
